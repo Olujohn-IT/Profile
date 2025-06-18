@@ -6,8 +6,12 @@ This is my module 4 class project.
 
 # List of my class mates:
 
-- Guy Lucien
+- Guy 
 - Zakary
 - Tobias
 - joey
-- 
+- Harleen
+- Diabo
+- Tmar
+- karan
+- Palak
