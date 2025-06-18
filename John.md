@@ -6,5 +6,8 @@ This is my module 4 class project.
 
 # List of my class mates:
 
-- Guy Pierce
+- Guy Lucien
 - Zakary
+- Tobias
+- joey
+- 
